@@ -36,3 +36,12 @@ This section will be updated soon!
 
 ### Credit
 All credit goes to those who contributed towards the original site. Thank You to all of those who have built up the PS3 scene to what it is today, You know who You are...
+
+---
+
+### To-Do
+- Add UserAgent detection that refers to structure (HTML4, CSS2 & ES3 for PS3. HTML5, CSS3 & JS for desktop, tablet and mobile)
+- Create home page
+- Create all other pages
+- Create singular CSS for pages that run scripts
+- Add scripts into the asset folder (& link them to pages)
